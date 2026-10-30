@@ -6,12 +6,6 @@ Stack: Next.js (App Router, TypeScript) · Zustand (persisted to `localStorage`)
 
 ## Setup
 
-```bash
-npm install
-cp .env.example .env.local   # then fill in a key
-npm run dev                  # http://localhost:3000
-```
-
 Environment variables (`.env.local`):
 
 | Variable | Purpose |
